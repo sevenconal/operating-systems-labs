@@ -1,4 +1,4 @@
-# Example 05 – dup and dup2 System Calls
+# Example 04 – dup and dup2 System Calls
 
 ## Purpose
 
@@ -21,3 +21,4 @@ This program demonstrates how to duplicate file descriptors in Linux using `dup`
 ## How to Compile and Run
 
 $gcc main.c -o app$ ./app
+
