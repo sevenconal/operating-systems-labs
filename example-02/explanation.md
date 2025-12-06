@@ -1,4 +1,4 @@
-# Example 03 – Open System Call (File Creation and Append)
+# Example 02 – Open System Call (File Creation and Append)
 
 ## Purpose
 
@@ -32,3 +32,4 @@ $gcc main.c -o app$ ./app
 (Type some text and press Enter)
 $ cat target.txt
 (Check the file content)
+
